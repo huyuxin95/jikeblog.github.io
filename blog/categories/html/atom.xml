@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: html | Blog Like a Hacker]]></title>
+  <link href="http://jikeblog.github.io/blog/categories/html/atom.xml" rel="self"/>
+  <link href="http://jikeblog.github.io/"/>
+  <updated>2015-04-19T12:12:56+08:00</updated>
+  <id>http://jikeblog.github.io/</id>
+  <author>
+    <name><![CDATA[jikexueyuan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[极客学院]]></title>
+    <link href="http://jikeblog.github.io/blog/2015/04/19/jikexueyuan/"/>
+    <updated>2015-04-19T09:29:38+08:00</updated>
+    <id>http://jikeblog.github.io/blog/2015/04/19/jikexueyuan</id>
+    <content type="html"><![CDATA[<h1>你好极客学院</h1>
+
+<h2>你可以学到你想要的</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标亮</code></p>
+
+<ul>
+<li>Android
+
+<ul>
+<li>http</li>
+<li>sqlite3</li>
+</ul>
+</li>
+<li>PHP</li>
+<li>HTML</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="http://www.jikexueyuan.com">极客学院</a></p>
+
+<p><img src="http://a1.jikexueyuan.com/home/201501/20/3d9a/54be2e8c43011.jpg" alt="image" /></p>
+
+<p><video width='640' height='320' preload='metadata' controls poster='http://assets.jikexueyuan.com/practice/list_android.jpg">http://assets.jikexueyuan.com/practice/list_android.jpg</a>&#8217;><source src='http://static-jkxy.qiniudn.com/event/jkxy_profile20150318.mp4">http://static-jkxy.qiniudn.com/event/jkxy_profile20150318.mp4</a>&#8217; ></video></p>
+
+<pre><code>public class Jikexueyuan{
+    public static void main(String[] args){
+        System.out.println("helo jikexueyuan");
+    }
+}
+</code></pre>
+
+<pre><code class="java This is a java http://www.jikexueyuan.com link">public class Jikexueyuan{
+    public static void main(String[] args){
+        System.out.println("helo jikexueyuan");
+    }
+}
+</code></pre>
+
+<p><figure class='code'><figcaption><span>This is a java <a href="http://www.jikexueyuan.com">http://www.jikexueyuan.com</a> link </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="kd">public</span> <span class="kd">class</span> <span class="nc">Jikexueyuan</span><span class="o">{</span>
+</span><span class='line'>    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">){</span>
+</span><span class='line'>        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(&amp;</span><span class="n">ldquo</span><span class="o">;</span><span class="n">helo</span> <span class="n">jikexueyuan</span><span class="o">&amp;</span><span class="n">rdquo</span><span class="o">;);</span>
+</span><span class='line'>    <span class="o">}</span>
+</span><span class='line'><span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[HELLO]]></title>
+    <link href="http://jikeblog.github.io/blog/2015/04/19/hello/"/>
+    <updated>2015-04-19T09:29:38+08:00</updated>
+    <id>http://jikeblog.github.io/blog/2015/04/19/hello</id>
+    <content type="html"><![CDATA[<h1>你好极客学院</h1>
+
+<h2>你可以学到你想要的</h2>
+]]></content>
+  </entry>
+  
+</feed>
